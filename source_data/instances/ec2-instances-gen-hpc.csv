@@ -1,0 +1,10 @@
+Instance,Memory (GiB),Processor,vCPUs,CPU cores,Threads per core,Accelerator count,Accelerators,Accelerator memory
+hpc6a.48xlarge,384,AMD EPYC 7R13,96,96,1,None,None,None
+hpc6id.32xlarge,1024,Intel Xeon Ice Lake,64,64,1,None,None,None
+hpc7a.12xlarge,768,AMD EPYC 9R14,24,24,1,None,None,None
+hpc7a.24xlarge,768,AMD EPYC 9R14,48,48,1,None,None,None
+hpc7a.48xlarge,768,AMD EPYC 9R14,96,96,1,None,None,None
+hpc7a.96xlarge,768,AMD EPYC 9R14,192,192,1,None,None,None
+hpc7g.4xlarge,128,AWS Graviton3E Processor,16,16,1,None,None,None
+hpc7g.8xlarge,128,AWS Graviton3E Processor,32,32,1,None,None,None
+hpc7g.16xlarge,128,AWS Graviton3E Processor,64,64,1,None,None,None

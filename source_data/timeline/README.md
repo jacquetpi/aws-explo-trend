@@ -1,0 +1,1 @@
+Re-sync with ```wget https://instancetyp.es/timeline.json``` or consult [project page](https://github.com/nrollr/EC2-timeline)

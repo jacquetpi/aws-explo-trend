@@ -1,0 +1,58 @@
+Instance,Memory (GiB),Processor,vCPUs,CPU cores,Threads per core,Accelerator count,Accelerators,Accelerator memory
+a1.medium,2.00,AWS Graviton Processor,1,1,1,None,None,None
+a1.large,4.00,AWS Graviton Processor,2,2,1,None,None,None
+a1.xlarge,8.00,AWS Graviton Processor,4,4,1,None,None,None
+a1.2xlarge,16.00,AWS Graviton Processor,8,8,1,None,None,None
+a1.4xlarge,32.00,AWS Graviton Processor,16,16,1,None,None,None
+a1.metal,32.00,AWS Graviton Processor,16,16,1,None,None,None
+c1.medium,1.70,Intel Xeon Family,2,2,1,None,None,None
+c1.xlarge,7.00,Intel Xeon Family,8,8,1,None,None,None
+c3.large,3.75,Intel Xeon E5-2680v2,2,1,2,None,None,None
+c3.xlarge,7.50,Intel Xeon E5-2680v2,4,2,2,None,None,None
+c3.2xlarge,15.00,Intel Xeon E5-2680v2,8,4,2,None,None,None
+c3.4xlarge,30.00,Intel Xeon E5-2680v2,16,8,2,None,None,None
+c3.8xlarge,60.00,Intel Xeon E5-2680v2,32,16,2,None,None,None
+c4.large,3.75,Intel Xeon E5-2666v3,2,1,2,None,None,None
+c4.xlarge,7.50,Intel Xeon E5-2666v3,4,2,2,None,None,None
+c4.2xlarge,15.00,Intel Xeon E5-2666v3,8,4,2,None,None,None
+c4.4xlarge,30.00,Intel Xeon E5-2666v3,16,8,2,None,None,None
+c4.8xlarge,60.00,Intel Xeon E5-2666v3,36,18,2,None,None,None
+g3.4xlarge,122.00,Intel Xeon E5-2686v4,16,8,2,1,NVIDIA M60 GPU,8
+g3.8xlarge,244.00,Intel Xeon E5-2686v4,32,16,2,2,NVIDIA M60 GPU,16
+g3.16xlarge,488.00,Intel Xeon E5-2686v4,64,32,2,4,NVIDIA M60 GPU,32
+i2.xlarge,30.50,Intel Xeon E5-2670v2,4,2,2,None,None,None
+i2.2xlarge,61.00,Intel Xeon E5-2670v2,8,4,2,None,None,None
+i2.4xlarge,122.00,Intel Xeon E5-2670v2,16,8,2,None,None,None
+i2.8xlarge,244.00,Intel Xeon E5-2670v2,32,16,2,None,None,None
+m1.small,1.70,Intel Xeon Family,1,1,1,None,None,None
+m1.medium,3.70,Intel Xeon Family,1,1,1,None,None,None
+m1.large,7.50,Intel Xeon Family,2,2,1,None,None,None
+m1.xlarge,15.00,Intel Xeon Family,4,4,1,None,None,None
+m2.xlarge,17.10,Intel Xeon Family,2,2,1,None,None,None
+m2.2xlarge,34.20,Intel Xeon Family,4,4,1,None,None,None
+m2.4xlarge,68.40,Intel Xeon Family,8,8,1,None,None,None
+m3.medium,3.75,Intel Xeon E5-2670v2,1,1,1,None,None,None
+m3.large,7.50,Intel Xeon E5-2670v2,2,1,2,None,None,None
+m3.xlarge,15.00,Intel Xeon E5-2670v2,4,2,2,None,None,None
+m3.2xlarge,30.00,Intel Xeon E5-2670v2,8,4,2,None,None,None
+m4.large,8.00,Intel Xeon E5-2676v3,2,1,2,None,None,None
+m4.xlarge,16.00,Intel Xeon E5-2676v3,4,2,2,None,None,None
+m4.2xlarge,32.00,Intel Xeon E5-2676v3,8,4,2,None,None,None
+m4.4xlarge,64.00,Intel Xeon E5-2676v3,16,8,2,None,None,None
+m4.10xlarge,160.00,Intel Xeon E5-2676v3,40,20,2,None,None,None
+m4.16xlarge,256.00,Intel Xeon E5-2686v4,64,32,2,None,None,None
+p2.xlarge,61.00,Intel Xeon E5-2686v4,4,2,2,1,NVIDIA K80 GPU,12
+p2.8xlarge,488.00,Intel Xeon E5-2686v4,32,16,2,8,NVIDIA K80 GPU,96
+p2.16xlarge,732.00,Intel Xeon E5-2686v4,64,32,2,16,NVIDIA K80 GPU,192
+r3.large,15.00,Intel Xeon E5-2670v2,2,1,2,None,None,None
+r3.xlarge,30.50,Intel Xeon E5-2670v2,4,2,2,None,None,None
+r3.2xlarge,61.00,Intel Xeon E5-2670v2,8,4,2,None,None,None
+r3.4xlarge,122.00,Intel Xeon E5-2670v2,16,8,2,None,None,None
+r3.8xlarge,244.00,Intel Xeon E5-2670v2,32,16,2,None,None,None
+r4.large,15.25,Intel Broadwell E5-2686v4,2,1,2,None,None,None
+r4.xlarge,30.50,Intel Broadwell E5-2686v4,4,2,2,None,None,None
+r4.2xlarge,61.00,Intel Broadwell E5-2686v4,8,4,2,None,None,None
+r4.4xlarge,122.00,Intel Broadwell E5-2686v4,16,8,2,None,None,None
+r4.8xlarge,244.00,Intel Broadwell E5-2686v4,32,16,2,None,None,None
+r4.16xlarge,488.00,Intel Broadwell E5-2686v4,64,32,2,None,None,None
+t1.micro,0.61,Intel E5-2650,1,1,1,None,None,None

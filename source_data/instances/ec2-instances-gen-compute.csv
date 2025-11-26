@@ -1,0 +1,222 @@
+Instance,Memory (GiB),Processor,vCPUs,CPU cores,Threads per core,Accelerator count,Accelerators,Accelerator memory
+c5.large,4.00,Intel Xeon Platinum 8124M,2,1,2,None,None,None
+c5.xlarge,8.00,Intel Xeon Platinum 8124M,4,2,2,None,None,None
+c5.2xlarge,16.00,Intel Xeon Platinum 8124M,8,4,2,None,None,None
+c5.4xlarge,32.00,Intel Xeon Platinum 8124M,16,8,2,None,None,None
+c5.9xlarge,72.00,Intel Xeon Platinum 8124M,36,18,2,None,None,None
+c5.12xlarge,96.00,2nd Gen Intel Xeon Platinum 8275CL,48,24,2,None,None,None
+c5.18xlarge,144.00,Intel Xeon Platinum 8124M,72,36,2,None,None,None
+c5.24xlarge,192.00,2nd Gen Intel Xeon Platinum 8275CL,96,48,2,None,None,None
+c5.metal,192.00,2nd Gen Intel Xeon Platinum 8275CL,96,48,2,None,None,None
+c5a.large,4.00,2nd Gen AMD EPYC 7R32,2,1,2,None,None,None
+c5a.xlarge,8.00,2nd Gen AMD EPYC 7R32,4,2,2,None,None,None
+c5a.2xlarge,16.00,2nd Gen AMD EPYC 7R32,8,4,2,None,None,None
+c5a.4xlarge,32.00,2nd Gen AMD EPYC 7R32,16,8,2,None,None,None
+c5a.8xlarge,64.00,2nd Gen AMD EPYC 7R32,32,16,2,None,None,None
+c5a.12xlarge,96.00,2nd Gen AMD EPYC 7R32,48,24,2,None,None,None
+c5a.16xlarge,128.00,2nd Gen AMD EPYC 7R32,64,32,2,None,None,None
+c5a.24xlarge,192.00,2nd Gen AMD EPYC 7R32,96,48,2,None,None,None
+c5ad.large,4.00,2nd Gen AMD EPYC 7R32,2,1,2,None,None,None
+c5ad.xlarge,8.00,2nd Gen AMD EPYC 7R32,4,2,2,None,None,None
+c5ad.2xlarge,16.00,2nd Gen AMD EPYC 7R32,8,4,2,None,None,None
+c5ad.4xlarge,32.00,2nd Gen AMD EPYC 7R32,16,8,2,None,None,None
+c5ad.8xlarge,64.00,2nd Gen AMD EPYC 7R32,32,16,2,None,None,None
+c5ad.12xlarge,96.00,2nd Gen AMD EPYC 7R32,48,24,2,None,None,None
+c5ad.16xlarge,128.00,2nd Gen AMD EPYC 7R32,64,32,2,None,None,None
+c5ad.24xlarge,192.00,2nd Gen AMD EPYC 7R32,96,48,2,None,None,None
+c5d.large,4.00,Intel Xeon Platinum 8124M,2,1,2,None,None,None
+c5d.xlarge,8.00,Intel Xeon Platinum 8124M,4,2,2,None,None,None
+c5d.2xlarge,16.00,Intel Xeon Platinum 8124M,8,4,2,None,None,None
+c5d.4xlarge,32.00,Intel Xeon Platinum 8124M,16,8,2,None,None,None
+c5d.9xlarge,72.00,Intel Xeon Platinum 8124M,36,18,2,None,None,None
+c5d.12xlarge,96.00,2nd Gen Intel Xeon Platinum 8275CL,48,24,2,None,None,None
+c5d.18xlarge,144.00,Intel Xeon Platinum 8124M,72,36,2,None,None,None
+c5d.24xlarge,192.00,2nd Gen Intel Xeon Platinum 8275CL,96,48,2,None,None,None
+c5d.metal,192.00,2nd Gen Intel Xeon Platinum 8275CL,96,48,2,None,None,None
+c5n.large,5.25,Intel Xeon Platinum 8124M,2,1,2,None,None,None
+c5n.xlarge,10.50,Intel Xeon Platinum 8124M,4,2,2,None,None,None
+c5n.2xlarge,21.00,Intel Xeon Platinum 8124M,8,4,2,None,None,None
+c5n.4xlarge,42.00,Intel Xeon Platinum 8124M,16,8,2,None,None,None
+c5n.9xlarge,96.00,Intel Xeon Platinum 8124M,36,18,2,None,None,None
+c5n.18xlarge,192.00,Intel Xeon Platinum 8124M,72,36,2,None,None,None
+c5n.metal,192.00,Intel Xeon Platinum 8124M,72,36,2,None,None,None
+c6a.large,4.00,AMD EPYC 7R13,2,1,2,None,None,None
+c6a.xlarge,8.00,AMD EPYC 7R13,4,2,2,None,None,None
+c6a.2xlarge,16.00,AMD EPYC 7R13,8,4,2,None,None,None
+c6a.4xlarge,32.00,AMD EPYC 7R13,16,8,2,None,None,None
+c6a.8xlarge,64.00,AMD EPYC 7R13,32,16,2,None,None,None
+c6a.12xlarge,96.00,AMD EPYC 7R13,48,24,2,None,None,None
+c6a.16xlarge,128.00,AMD EPYC 7R13,64,32,2,None,None,None
+c6a.24xlarge,192.00,AMD EPYC 7R13,96,48,2,None,None,None
+c6a.32xlarge,256.00,AMD EPYC 7R13,128,64,2,None,None,None
+c6a.48xlarge,384.00,AMD EPYC 7R13,192,96,2,None,None,None
+c6a.metal,384.00,AMD EPYC 7R13,192,96,2,None,None,None
+c6g.medium,2.00,AWS Graviton2 Processor,1,1,1,None,None,None
+c6g.large,4.00,AWS Graviton2 Processor,2,2,1,None,None,None
+c6g.xlarge,8.00,AWS Graviton2 Processor,4,4,1,None,None,None
+c6g.2xlarge,16.00,AWS Graviton2 Processor,8,8,1,None,None,None
+c6g.4xlarge,32.00,AWS Graviton2 Processor,16,16,1,None,None,None
+c6g.8xlarge,64.00,AWS Graviton2 Processor,32,32,1,None,None,None
+c6g.12xlarge,96.00,AWS Graviton2 Processor,48,48,1,None,None,None
+c6g.16xlarge,128.00,AWS Graviton2 Processor,64,64,1,None,None,None
+c6g.metal,128.00,AWS Graviton2 Processor,64,64,1,None,None,None
+c6gd.medium,2.00,AWS Graviton2 Processor,1,1,1,None,None,None
+c6gd.large,4.00,AWS Graviton2 Processor,2,2,1,None,None,None
+c6gd.xlarge,8.00,AWS Graviton2 Processor,4,4,1,None,None,None
+c6gd.2xlarge,16.00,AWS Graviton2 Processor,8,8,1,None,None,None
+c6gd.4xlarge,32.00,AWS Graviton2 Processor,16,16,1,None,None,None
+c6gd.8xlarge,64.00,AWS Graviton2 Processor,32,32,1,None,None,None
+c6gd.12xlarge,96.00,AWS Graviton2 Processor,48,48,1,None,None,None
+c6gd.16xlarge,128.00,AWS Graviton2 Processor,64,64,1,None,None,None
+c6gd.metal,128.00,AWS Graviton2 Processor,64,64,1,None,None,None
+c6gn.medium,2.00,AWS Graviton2 Processor,1,1,1,None,None,None
+c6gn.large,4.00,AWS Graviton2 Processor,2,2,1,None,None,None
+c6gn.xlarge,8.00,AWS Graviton2 Processor,4,4,1,None,None,None
+c6gn.2xlarge,16.00,AWS Graviton2 Processor,8,8,1,None,None,None
+c6gn.4xlarge,32.00,AWS Graviton2 Processor,16,16,1,None,None,None
+c6gn.8xlarge,64.00,AWS Graviton2 Processor,32,32,1,None,None,None
+c6gn.12xlarge,96.00,AWS Graviton2 Processor,48,48,1,None,None,None
+c6gn.16xlarge,128.00,AWS Graviton2 Processor,64,64,1,None,None,None
+c6i.large,4.00,Intel Xeon Ice Lake,2,1,2,None,None,None
+c6i.xlarge,8.00,Intel Xeon Ice Lake,4,2,2,None,None,None
+c6i.2xlarge,16.00,Intel Xeon Ice Lake,8,4,2,None,None,None
+c6i.4xlarge,32.00,Intel Xeon Ice Lake,16,8,2,None,None,None
+c6i.8xlarge,64.00,Intel Xeon Ice Lake,32,16,2,None,None,None
+c6i.12xlarge,96.00,Intel Xeon Ice Lake,48,24,2,None,None,None
+c6i.16xlarge,128.00,Intel Xeon Ice Lake,64,32,2,None,None,None
+c6i.24xlarge,192.00,Intel Xeon Ice Lake,96,48,2,None,None,None
+c6i.32xlarge,256.00,Intel Xeon Ice Lake,128,64,2,None,None,None
+c6i.metal,256.00,Intel Xeon Ice Lake,128,64,2,None,None,None
+c6id.large,4.00,Intel Xeon Ice Lake,2,1,2,None,None,None
+c6id.xlarge,8.00,Intel Xeon Ice Lake,4,2,2,None,None,None
+c6id.2xlarge,16.00,Intel Xeon Ice Lake,8,4,2,None,None,None
+c6id.4xlarge,32.00,Intel Xeon Ice Lake,16,8,2,None,None,None
+c6id.8xlarge,64.00,Intel Xeon Ice Lake,32,16,2,None,None,None
+c6id.12xlarge,96.00,Intel Xeon Ice Lake,48,24,2,None,None,None
+c6id.16xlarge,128.00,Intel Xeon Ice Lake,64,32,2,None,None,None
+c6id.24xlarge,192.00,Intel Xeon Ice Lake,96,48,2,None,None,None
+c6id.32xlarge,256.00,Intel Xeon Ice Lake,128,64,2,None,None,None
+c6id.metal,256.00,Intel Xeon Ice Lake,128,64,2,None,None,None
+c6in.large,4.00,Intel Xeon Ice Lake,2,1,2,None,None,None
+c6in.xlarge,8.00,Intel Xeon Ice Lake,4,2,2,None,None,None
+c6in.2xlarge,16.00,Intel Xeon Ice Lake,8,4,2,None,None,None
+c6in.4xlarge,32.00,Intel Xeon Ice Lake,16,8,2,None,None,None
+c6in.8xlarge,64.00,Intel Xeon Ice Lake,32,16,2,None,None,None
+c6in.12xlarge,96.00,Intel Xeon Ice Lake,48,24,2,None,None,None
+c6in.16xlarge,128.00,Intel Xeon Ice Lake,64,32,2,None,None,None
+c6in.24xlarge,192.00,Intel Xeon Ice Lake,96,48,2,None,None,None
+c6in.32xlarge,256.00,Intel Xeon Ice Lake,128,64,2,None,None,None
+c6in.metal,256.00,Intel Xeon Ice Lake,128,64,2,None,None,None
+c7a.medium,2.00,AMD EPYC 9R14,1,1,1,None,None,None
+c7a.large,4.00,AMD EPYC 9R14,2,2,1,None,None,None
+c7a.xlarge,8.00,AMD EPYC 9R14,4,4,1,None,None,None
+c7a.2xlarge,16.00,AMD EPYC 9R14,8,8,1,None,None,None
+c7a.4xlarge,32.00,AMD EPYC 9R14,16,16,1,None,None,None
+c7a.8xlarge,64.00,AMD EPYC 9R14,32,32,1,None,None,None
+c7a.12xlarge,96.00,AMD EPYC 9R14,48,48,1,None,None,None
+c7a.16xlarge,128.00,AMD EPYC 9R14,64,64,1,None,None,None
+c7a.24xlarge,192.00,AMD EPYC 9R14,96,96,1,None,None,None
+c7a.32xlarge,256.00,AMD EPYC 9R14,128,128,1,None,None,None
+c7a.48xlarge,384.00,AMD EPYC 9R14,192,192,1,None,None,None
+c7a.metal-48xl,384.00,AMD EPYC 9R14,192,192,1,None,None,None
+c7g.medium,2.00,AWS Graviton3 Processor,1,1,1,None,None,None
+c7g.large,4.00,AWS Graviton3 Processor,2,2,1,None,None,None
+c7g.xlarge,8.00,AWS Graviton3 Processor,4,4,1,None,None,None
+c7g.2xlarge,16.00,AWS Graviton3 Processor,8,8,1,None,None,None
+c7g.4xlarge,32.00,AWS Graviton3 Processor,16,16,1,None,None,None
+c7g.8xlarge,64.00,AWS Graviton3 Processor,32,32,1,None,None,None
+c7g.12xlarge,96.00,AWS Graviton3 Processor,48,48,1,None,None,None
+c7g.16xlarge,128.00,AWS Graviton3 Processor,64,64,1,None,None,None
+c7g.metal,128.00,AWS Graviton3 Processor,64,64,1,None,None,None
+c7gd.medium,2.00,AWS Graviton3 Processor,1,1,1,None,None,None
+c7gd.large,4.00,AWS Graviton3 Processor,2,2,1,None,None,None
+c7gd.xlarge,8.00,AWS Graviton3 Processor,4,4,1,None,None,None
+c7gd.2xlarge,16.00,AWS Graviton3 Processor,8,8,1,None,None,None
+c7gd.4xlarge,32.00,AWS Graviton3 Processor,16,16,1,None,None,None
+c7gd.8xlarge,64.00,AWS Graviton3 Processor,32,32,1,None,None,None
+c7gd.12xlarge,96.00,AWS Graviton3 Processor,48,48,1,None,None,None
+c7gd.16xlarge,128.00,AWS Graviton3 Processor,64,64,1,None,None,None
+c7gd.metal,128.00,AWS Graviton3 Processor,64,64,1,None,None,None
+c7gn.medium,2.00,AWS Graviton3E Processor,1,1,1,None,None,None
+c7gn.large,4.00,AWS Graviton3E Processor,2,2,1,None,None,None
+c7gn.xlarge,8.00,AWS Graviton3E Processor,4,4,1,None,None,None
+c7gn.2xlarge,16.00,AWS Graviton3E Processor,8,8,1,None,None,None
+c7gn.4xlarge,32.00,AWS Graviton3E Processor,16,16,1,None,None,None
+c7gn.8xlarge,64.00,AWS Graviton3E Processor,32,32,1,None,None,None
+c7gn.12xlarge,96.00,AWS Graviton3E Processor,48,48,1,None,None,None
+c7gn.16xlarge,128.00,AWS Graviton3E Processor,64,64,1,None,None,None
+c7gn.metal,128.00,AWS Graviton3E Processor,64,64,1,None,None,None
+c7i.large,4.00,Intel Xeon Sapphire Rapids,2,1,2,None,None,None
+c7i.xlarge,8.00,Intel Xeon Sapphire Rapids,4,2,2,None,None,None
+c7i.2xlarge,16.00,Intel Xeon Sapphire Rapids,8,4,2,None,None,None
+c7i.4xlarge,32.00,Intel Xeon Sapphire Rapids,16,8,2,None,None,None
+c7i.8xlarge,64.00,Intel Xeon Sapphire Rapids,32,16,2,None,None,None
+c7i.12xlarge,96.00,Intel Xeon Sapphire Rapids,48,24,2,None,None,None
+c7i.16xlarge,128.00,Intel Xeon Sapphire Rapids,64,32,2,None,None,None
+c7i.24xlarge,192.00,Intel Xeon Sapphire Rapids,96,48,2,None,None,None
+c7i.48xlarge,384.00,Intel Xeon Sapphire Rapids,192,96,2,None,None,None
+c7i.metal-24xl,192.00,Intel Xeon Sapphire Rapids,96,48,2,None,None,None
+c7i.metal-48xl,384.00,Intel Xeon Sapphire Rapids,192,96,2,None,None,None
+c7i-flex.large,4.00,Intel Xeon Sapphire Rapids,2,1,2,None,None,None
+c7i-flex.xlarge,8.00,Intel Xeon Sapphire Rapids,4,2,2,None,None,None
+c7i-flex.2xlarge,16.00,Intel Xeon Sapphire Rapids,8,4,2,None,None,None
+c7i-flex.4xlarge,32.00,Intel Xeon Sapphire Rapids,16,8,2,None,None,None
+c7i-flex.8xlarge,64.00,Intel Xeon Sapphire Rapids,32,16,2,None,None,None
+c7i-flex.12xlarge,96.00,Intel Xeon Sapphire Rapids,48,24,2,None,None,None
+c7i-flex.16xlarge,128.00,Intel Xeon Sapphire Rapids,64,32,2,None,None,None
+c8g.medium,2.00,AWS Graviton4 Processor,1,1,1,None,None,None
+c8g.large,4.00,AWS Graviton4 Processor,2,2,1,None,None,None
+c8g.xlarge,8.00,AWS Graviton4 Processor,4,4,1,None,None,None
+c8g.2xlarge,16.00,AWS Graviton4 Processor,8,8,1,None,None,None
+c8g.4xlarge,32.00,AWS Graviton4 Processor,16,16,1,None,None,None
+c8g.8xlarge,64.00,AWS Graviton4 Processor,32,32,1,None,None,None
+c8g.12xlarge,96.00,AWS Graviton4 Processor,48,48,1,None,None,None
+c8g.16xlarge,128.00,AWS Graviton4 Processor,64,64,1,None,None,None
+c8g.24xlarge,192.00,AWS Graviton4 Processor,96,96,1,None,None,None
+c8g.48xlarge,384.00,AWS Graviton4 Processor,192,192,1,None,None,None
+c8g.metal-24xl,192.00,AWS Graviton4 Processor,96,96,1,None,None,None
+c8g.metal-48xl,384.00,AWS Graviton4 Processor,192,192,1,None,None,None
+c8gd.medium,2.00,AWS Graviton4 Processor,1,1,1,None,None,None
+c8gd.large,4.00,AWS Graviton4 Processor,2,2,1,None,None,None
+c8gd.xlarge,8.00,AWS Graviton4 Processor,4,4,1,None,None,None
+c8gd.2xlarge,16.00,AWS Graviton4 Processor,8,8,1,None,None,None
+c8gd.4xlarge,32.00,AWS Graviton4 Processor,16,16,1,None,None,None
+c8gd.8xlarge,64.00,AWS Graviton4 Processor,32,32,1,None,None,None
+c8gd.12xlarge,96.00,AWS Graviton4 Processor,48,48,1,None,None,None
+c8gd.16xlarge,128.00,AWS Graviton4 Processor,64,64,1,None,None,None
+c8gd.24xlarge,192.00,AWS Graviton4 Processor,96,96,1,None,None,None
+c8gd.48xlarge,384.00,AWS Graviton4 Processor,192,192,1,None,None,None
+c8gd.metal-24xl,192.00,AWS Graviton4 Processor,96,96,1,None,None,None
+c8gd.metal-48xl,384.00,AWS Graviton4 Processor,192,192,1,None,None,None
+c8gn.medium,2.00,AWS Graviton4 Processor,1,1,1,None,None,None
+c8gn.large,4.00,AWS Graviton4 Processor,2,2,1,None,None,None
+c8gn.xlarge,8.00,AWS Graviton4 Processor,4,4,1,None,None,None
+c8gn.2xlarge,16.00,AWS Graviton4 Processor,8,8,1,None,None,None
+c8gn.4xlarge,32.00,AWS Graviton4 Processor,16,16,1,None,None,None
+c8gn.8xlarge,64.00,AWS Graviton4 Processor,32,32,1,None,None,None
+c8gn.12xlarge,96.00,AWS Graviton4 Processor,48,48,1,None,None,None
+c8gn.16xlarge,128.00,AWS Graviton4 Processor,64,64,1,None,None,None
+c8gn.24xlarge,192.00,AWS Graviton4 Processor,96,96,1,None,None,None
+c8gn.48xlarge,384.00,AWS Graviton4 Processor,192,192,1,None,None,None
+c8gn.metal-24xl,192.00,AWS Graviton4 Processor,96,96,1,None,None,None
+c8gn.metal-48xl,384.00,AWS Graviton4 Processor,192,192,1,None,None,None
+c8i.large,4.00,Intel Xeon Granite Rapids,2,1,2,None,None,None
+c8i.xlarge,8.00,Intel Xeon Granite Rapids,4,2,2,None,None,None
+c8i.2xlarge,16.00,Intel Xeon Granite Rapids,8,4,2,None,None,None
+c8i.4xlarge,32.00,Intel Xeon Granite Rapids,16,8,2,None,None,None
+c8i.8xlarge,64.00,Intel Xeon Granite Rapids,32,16,2,None,None,None
+c8i.12xlarge,96.00,Intel Xeon Granite Rapids,48,24,2,None,None,None
+c8i.16xlarge,128.00,Intel Xeon Granite Rapids,64,32,2,None,None,None
+c8i.24xlarge,192.00,Intel Xeon Granite Rapids,96,48,2,None,None,None
+c8i.32xlarge,256.00,Intel Xeon Granite Rapids,128,64,2,None,None,None
+c8i.48xlarge,384.00,Intel Xeon Granite Rapids,192,96,2,None,None,None
+c8i.96xlarge,768.00,Intel Xeon Granite Rapids,384,192,2,None,None,None
+c8i.metal-48xl,384.00,Intel Xeon Granite Rapids,192,96,2,None,None,None
+c8i.metal-96xl,768.00,Intel Xeon Granite Rapids,384,192,2,None,None,None
+c8i-flex.large,4.00,Intel Xeon Granite Rapids,2,1,2,None,None,None
+c8i-flex.xlarge,8.00,Intel Xeon Granite Rapids,4,2,2,None,None,None
+c8i-flex.2xlarge,16.00,Intel Xeon Granite Rapids,8,4,2,None,None,None
+c8i-flex.4xlarge,32.00,Intel Xeon Granite Rapids,16,8,2,None,None,None
+c8i-flex.8xlarge,64.00,Intel Xeon Granite Rapids,32,16,2,None,None,None
+c8i-flex.12xlarge,96.00,Intel Xeon Granite Rapids,48,24,2,None,None,None
+c8i-flex.16xlarge,128.00,Intel Xeon Granite Rapids,64,32,2,None,None,None
